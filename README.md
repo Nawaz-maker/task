@@ -1,7 +1,7 @@
 # python task submission
 
 ## Task 1
-Basic mathematical operations
+Check if a number is even or not
 
 ## Task 2
-Personalised Greetings
+Sum of integers from 1 to 50 using a loop
